@@ -70,4 +70,3 @@ Novas mecânicas e melhorias podem ser adicionadas futuramente conforme a necess
 
 Desenvolvedor de Jogos | Unity & C#
 
-[GitHub](https://github.com/marcusvinimoreira)
